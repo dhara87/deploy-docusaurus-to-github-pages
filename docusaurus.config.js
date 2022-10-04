@@ -38,14 +38,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/dhara87/deploy-docusaurus-to-github-pages/tree/main/docs/',
+            'https://github.com/dhara87/deploy-docusaurus-to-github-pages/tree/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/dhara87/deploy-docusaurus-to-github-pages/tree/main/blog/',
+            'https://github.com/dhara87/deploy-docusaurus-to-github-pages/tree/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
